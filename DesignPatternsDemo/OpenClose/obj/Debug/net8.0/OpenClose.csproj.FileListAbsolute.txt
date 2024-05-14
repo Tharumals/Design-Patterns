@@ -1,0 +1,14 @@
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\bin\Debug\net8.0\OpenClose.exe
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\bin\Debug\net8.0\OpenClose.deps.json
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\bin\Debug\net8.0\OpenClose.runtimeconfig.json
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\bin\Debug\net8.0\OpenClose.dll
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\bin\Debug\net8.0\OpenClose.pdb
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.AssemblyInfoInputs.cache
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.AssemblyInfo.cs
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.csproj.CoreCompileInputs.cache
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.dll
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\refint\OpenClose.dll
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.pdb
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\OpenClose.genruntimeconfig.cache
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\OpenClose\obj\Debug\net8.0\ref\OpenClose.dll

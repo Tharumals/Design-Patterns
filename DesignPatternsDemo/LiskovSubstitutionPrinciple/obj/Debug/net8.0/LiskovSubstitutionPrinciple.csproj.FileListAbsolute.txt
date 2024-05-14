@@ -1,0 +1,14 @@
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.exe
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.deps.json
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\refint\LiskovSubstitutionPrinciple.dll
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+D:\Tutorial\C Sharp\Practice C#\Design-Patterns\DesignPatternsDemo\LiskovSubstitutionPrinciple\obj\Debug\net8.0\ref\LiskovSubstitutionPrinciple.dll
